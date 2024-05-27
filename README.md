@@ -16,7 +16,7 @@ In this project, I developed a sorting algorithm for a specific problem using tw
 ## HOW TO USE
 #### 1º - Clone the repository
 ```bash
-git clone git@github.com:jotavare/push_swap.git
+git clone git@github.com:mazen-tech/push_swap.git
 ```
 #### 2º - Enter the project folder and run `make`
 ```bash
@@ -134,11 +134,4 @@ Possible actions:
 - ...
 ```
 
-* [42 Norms](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf) - Information about 42 code norms. `PDF`
-* [Norminette](https://github.com/42School/norminette) - Tool to respect the code norm, made by 42. `GitHub`
-* [42 Header](https://github.com/42Paris/42header) - 42 header for Vim. `GitHub`
 
-## LICENSE
-<p>
-This work is published under the terms of <a href="https://github.com/jotavare/push_swap/blob/main/LICENSE">Unlicense</a>.
-</p>
