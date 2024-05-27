@@ -7,14 +7,7 @@
 	<a href='https://profile.intra.42.fr/users/jotavare' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 </p>
 
-<p align="center">
-	<a href="#about">About</a> •
-	<a href="#how-to-use">How to use</a> •
-	<a href="#mandatory">Mandatory</a> •
-	<a href="#bonus">Bonus</a> •
-	<a href="#norminette">Norminette</a> •
-	<a href="#license">License</a>
-</p>
+
 
 ## ABOUT
 In this project, I developed a sorting algorithm for a specific problem using two stacks. The goal of the project is to efficiently sort a stack of integers using a set of predefined operations.
