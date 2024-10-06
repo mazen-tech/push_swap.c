@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://github.com/jotavare/jotavare/blob/main/42/banners/piscine_and_common_core/github_piscine_and_common_core_banner_push_swap.png">
-</p>
-
-<p align="center">
-	<a href='https://www.linkedin.com/in/mazen-abdelaziz-2b2275296/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
-	<a href='https://profile.intra.42.fr/' target="_blank"><img alt='42' src='https://img.shields.io/badge/Warsaw-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
-</p>
-
-
-
 ## ABOUT
 In this project, I developed a sorting algorithm for a specific problem using two stacks. The goal of the project is to efficiently sort a stack of integers using a set of predefined operations.
 
